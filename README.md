@@ -1,6 +1,6 @@
-# Getting Started with Create React App and Redux
+# LinkedIn Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+[Live Demo Here](https://linkedin-clone-62ae3.web.app)
 
 ## Available Scripts
 
